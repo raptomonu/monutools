@@ -1,5 +1,6 @@
 # hackingtools
-This tool only work in Android Termux
+Automatically install Kali Linux tools in Android !
+This tool only work in Android Termux!
 
 # Installation
 
