@@ -4,7 +4,7 @@ This tool only work in Android Termux!
 
 # Installation
 
-git clone https://github.com/raptomonu/hackingtools.git
+git clone https://github.com/raptomonu/monutools.git
 
 cd tools
 
