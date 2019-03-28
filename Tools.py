@@ -21,12 +21,12 @@ Submitted to
  | | |_ |   |  ___/ |  __  || |/ __| / _` || '__|
  | |__| | _ | | _   | |  | || |\__ \| (_| || |   
   \_____|(_)|_|(_)  |_|  |_||_||___/ \__,_||_|   
-                                                 
-                                                                                                                                                    
+                                                                                                                                                                                                    
 Channel: https://www.youtube.com/channel/UCutb4-_TjU6NzYdz9WA15Pg
 Facebook: facebook.com/raptomonu
 ----
 ONLY FOR TERMUX!
+THIS TOOL ONLY FOR EDUCATION PURPOSE ONLY!
 ----
 ==========================================
 00. Turn your Android into Hacking Machine.
