@@ -8,7 +8,7 @@ This tool only work in Android Termux!
 
 git clone https://github.com/raptomonu/monutools.git
 
-cd tools
+cd monutools
 
 chmod +x Tools.py
 
