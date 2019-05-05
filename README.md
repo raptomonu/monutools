@@ -6,6 +6,12 @@ This tool only work in Android Termux!
 
 # Installation
 
+open termux
+
+pkg install git
+
+pkg install python
+
 git clone https://github.com/raptomonu/monutools.git
 
 cd monutools
